@@ -1,0 +1,203 @@
+body{
+  background-color: white;
+  margin: 0%;
+}
+#grad1 {
+  height: 100vh;
+  opacity:50%;
+  background-color: white;
+  background-image: linear-gradient(white, black);
+}
+.mainimg{
+   position: absolute;
+   left: 280px;
+   top: 125px;
+   width:  850px;
+   height: 440px;
+
+  border-radius: 5px;
+
+}
+h1{
+  position: absolute;
+width: 108px;
+height: 54px;
+left: 50px;
+top: 30px;
+margin: 0%;
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 54px;
+text-align: center;
+}
+.iconimg{
+  position: absolute;
+width: 45px;
+height: 45.63px;
+left: 85px;
+top: 41px;
+}
+.button0{
+  border: none;
+  color: black;
+  padding: 8px 16px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2x;
+  position: absolute;
+  top: 50px;
+  left: 250px;
+  overflow: hidden;
+
+  background-color: Transparent;
+  background-repeat:no-repeat;
+
+
+}
+.button0:hover {
+  color: #008CBA;
+}
+.button1{
+  border: none;
+  color: black;
+  padding: 8px 16px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2x;
+  position: absolute;
+  top: 50px;
+  left: 540px;
+  overflow: hidden;
+  background-color: Transparent;
+  background-repeat:no-repeat;
+  width: 165px;
+}
+.button1:hover {
+  color: #008CBA;
+}
+.button2{
+  border: none;
+  color: black;
+  padding: 8px 16px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2x;
+  position: absolute;
+  top: 50px;
+  left: 740px;
+  overflow: hidden;
+  background-color: Transparent;
+  background-repeat:no-repeat;
+}
+.button2:hover {
+  color: #008CBA;
+}
+
+.button3{
+  border: none;
+  color: black;
+  padding: 8px 16px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2x;
+  position: absolute;
+  top: 50px;
+  left: 900px;
+  overflow: hidden;
+  background-color: Transparent;
+  background-repeat:no-repeat;
+}
+.button3:hover {
+  color: #008CBA;
+}
+.button4{
+  border: none;
+  color: black;
+  padding: 8px 16px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2x;
+  position: absolute;
+  top: 50px;
+  left: 1000px;
+  overflow: hidden;
+  background-color: Transparent;
+  background-repeat:no-repeat;
+}
+.button4:hover {
+  color: #008CBA;
+}
+
+.button5{
+  border: none;
+  color: black;
+  padding: 8px 16px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2x;
+  position: absolute;
+  top: 45px;
+  left: 1100px;
+  overflow: hidden;
+  background-color: Transparent;
+  background-repeat:no-repeat;
+}
+.button5:hover {
+  color: #008CBA;
+}
+.userimg{
+  width: 24px;
+  height: 24px;
+}
+.button6{
+  border: none;
+  color: black;
+  padding: 8px 16px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2x;
+  position: absolute;
+  top: 250px;
+  left: 1200px;
+  overflow: hidden;
+  background-color: Transparent;
+  background-repeat:no-repeat;
+}
+.button6:hover {
+  color: #008CBA;
+}
+.button7{
+  border: none;
+  color: black;
+  padding: 8px 16px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2x;
+  position: absolute;
+  top: 340px;
+  left: 1200px;
+  overflow: hidden;
+  background-color: Transparent;
+  background-repeat:no-repeat;
+}
+.button7:hover {
+  color: #008CBA;
+}
